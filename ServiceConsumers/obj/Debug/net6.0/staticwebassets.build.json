@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Avuzg02S3/TQG+lSikQNm2FDlT9VaYA2f9ErhxDfpV8=",
+  "Source": "ServiceConsumers",
+  "BasePath": "_content/ServiceConsumers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -2,7 +2,7 @@
 {
     public interface IClientService
     {
-        string Create();
-        string GetStatus(string requestId);
+        Task<string> Create();
+        Task<string> GetStatus(string requestId);
     }
 }
