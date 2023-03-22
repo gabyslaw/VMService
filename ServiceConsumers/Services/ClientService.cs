@@ -16,6 +16,7 @@
             responseMessage.EnsureSuccessStatusCode();
             string requestId = await responseMessage.Content.ReadAsStringAsync();
             return requestId;
+
         }
 
         public async Task<string> GetStatus(string requestId)
